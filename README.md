@@ -1,2 +1,2 @@
 # Piggy
-A repository for a game I made from Alvin Blox's tutorial
+A repository for a game I made from an online youtube tutorial
