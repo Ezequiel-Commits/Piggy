@@ -1,5 +1,5 @@
 -- A module containing the bulk of the code used in the GameLogic script
-local module = {} 
+local module = {}
 
 local status = game.ReplicatedStorage:WaitForChild("Status") -- A value to be displayed in the main gui
 
